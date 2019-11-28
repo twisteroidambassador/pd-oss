@@ -37,7 +37,7 @@ versions of Python 3 may also work.
 [Kivy](https://kivy.org/doc/stable/installation/installation-windows.html),
 [pySerial](https://pypi.org/project/pyserial/)
 and
-[pywin32](https://pypi.org/project/pyserial/).
+[pywin32](https://pypi.org/project/pywin32/).
 * Run `slider.py` from this repository under the virtualenv.
 
 ### Run the game
