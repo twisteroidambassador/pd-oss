@@ -38,7 +38,7 @@ versions of Python 3 may also work.
 [pySerial](https://pypi.org/project/pyserial/)
 and
 [pywin32](https://pypi.org/project/pyserial/).
-* Run `serial.py` from this repository under the virtualenv.
+* Run `slider.py` from this repository under the virtualenv.
 
 ### Run the game
 The game should detect the slider, and print out "TOUCH SLIDER BD: OK" on the
